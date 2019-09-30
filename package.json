@@ -1,0 +1,22 @@
+{
+  "name": "kubis-fitness",
+  "version": "1.0.0",
+  "description": "Fitness logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akubis18/fitness-tracker.git"
+  },
+  "author": "Andrew Kubis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akubis18/fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/akubis18/fitness-tracker#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
